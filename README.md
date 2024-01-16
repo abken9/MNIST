@@ -4,7 +4,7 @@ This repository was born out of the learnings and experiences from my graduate c
 
 The MNIST dataset is a large collection of handwritten digits, widely used for training and testing in the field of machine learning for image recognition. It consists of 70,000 grayscale images, each 28x28 pixels, divided into a training set of 60,000 examples and a test set of 10,000 examples, representing digits from 0 to 9.
 
-The main file is an iPython notebook "MNIST.ipynb" that contains the following sections:
+The main files is an iPython notebook "MNIST.ipynb" and "Autoencoders.ipynb" that contains the following sections:
 
 - Load up the data and visualize
 - k-means clustering (manual implementation)
@@ -15,5 +15,4 @@ The main file is an iPython notebook "MNIST.ipynb" that contains the following s
 - Multinomial Logit Regression (Pytorch)
 - Neural Networks (Pytorch)
 - Principal Component Analysis (PCA)
-
-Author: Amre Abken (abken9@gmail.com)
+- Autoencoders
